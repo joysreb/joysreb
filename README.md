@@ -2,14 +2,11 @@
 <h3 align="center">An engineering student</h3>
 
  
-
-- 🌱 I’m currently learning **react js**
-
--    I'm currently working on **Something cool**
-
+-  Love exploring to new technologies and recently interested in learning front-end frameworks 
+-  I’m currently learning **problem solving,react js**
+-  I'm currently working on **Something cool**
 - 🤝 I’m looking for help **react js**
 
-- 📫 How to reach me **joysreb112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
