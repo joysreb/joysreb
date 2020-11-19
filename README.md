@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react js**
 
--    I'm currently working on **Heart Disease Prediction**
+-    I'm currently working on **Something cool**
 
 - 🤝 I’m looking for help **react js**
 
