@@ -3,9 +3,9 @@
 
  
 -  Love exploring to new technologies and recently interested in learning front-end frameworks 
--  I’m currently learning **problem solving,react js**
--  I'm currently working on **Something cool**
-- 🤝 I’m looking for help **react js**
+-  I’m currently learning **problem solving , Hadoop Tools**
+-  I'm currently working as intern **BIGDATA**
+- 🤝 I’m looking for help in **Data structures and algorithm**
 
 
 <h3 align="left">Connect with me:</h3>
